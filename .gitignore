@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+build/
+dist/
+dmg-stage/
+*-test.json
+.env
+.DS_Store
